@@ -8,7 +8,7 @@ const ZavaletaAdrian = {
   pronouns: "He" | "Him",
   languages: [Spanish, English],
   location: "Querétaro, Mexico",
-  occupation: "4th Semester Software Engenieer"
+  occupation: "Software Engenieering Student"
 }
 ```
 ## You can find me 👇🏻:
