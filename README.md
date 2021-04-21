@@ -6,6 +6,7 @@ const ZavaletaAdrian = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Python, Java, Php],
   tools: [Node, Django, Flask, Git],
+  languages: [Spanish, English],
   mail: "zavaleta.adrian15@gmail.com"
 }
 ```
