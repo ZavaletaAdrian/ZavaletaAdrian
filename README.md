@@ -6,9 +6,9 @@
 ```JS
 const ZavaletaAdrian = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, Php],
-  tools: [Node, Django, Flask, Git],
   languages: [Spanish, English],
+  location: "Querétaro, Mexico",
+  occupation: "4th Semester Software Engenieer"
 }
 ```
 ## You can find me 👇🏻:
