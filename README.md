@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👨🏻‍💻, I'm Adrian</h1>
-<h3 align="center">A passionate Software Engineer from Mexico</h3>
+<h3 align="center">A passionate Software Engineer Student from Mexico</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zavaletaadrian&label=Profile%20views&color=0e75b6&style=flat" alt="zavaletaadrian" /> </p>
 
 ## About me in JS Code ✌🏻
