@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👨🏻‍💻, I'm Adrian, welcome to my Github 🤪</p></h1>
-<h2 align="left">Software Engineer 💻 | Mexico 🇲🇽 | Learning new things every day 🤓 | Video Games Lover 🕹</h2>
+<h2 align="left">Software Engineer 💻 | Mexico 🇲🇽 | Learning new things every day 🤓 </h2>
 
 <br/>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zavaletaadrian&label=Profile%20views&color=0e75b6&style=flat" alt="zavaletaadrian" height = "25" width = "150"/>
@@ -20,7 +20,6 @@
 ```JS
 const ZavaletaAdrian = {
   pronouns: 'He' | 'Him',
-  age: '20 years',
   languages: ['Spanish', 'English'],
   nationality: 'Mexican',
   occupation: 'Software Engineer',
